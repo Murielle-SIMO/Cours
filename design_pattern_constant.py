@@ -1,5 +1,5 @@
 """Sert un groupe de clients."""
-#j'importe le fonction "calculate_time_spent(function)" du module design_pattern_decorator
+#j'importe la fonction "calculate_time_spent(function)" du module design_pattern_decorator
 from time import time, sleep
 from Cours.design_pattern_decorator import calculate_time_spent
 
